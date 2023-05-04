@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl id u
 - Please submit your work to the following link: [Link](https://www.google.com)
 
 <details>
-<summary><h2>📌 Additional Resources</h2></summary>
+<summary><h2>📌 Additional Materials</h2></summary>
 <!-- create a thin horizontal line -->
 <hr style="height:1px;border-width:0;color:gray;background-color:dark">
 <i>
