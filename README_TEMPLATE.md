@@ -32,7 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl id u
 - Please submit your work to the following link: [Link](https://www.google.com)
 
 <details>
-<summary><h2>📌 Extra Links</h2></summary>
+<summary><h2>📌 Additional Resources</h2></summary>
+<!-- create a thin horizontal line -->
+<hr style="height:1px;border-width:0;color:gray;background-color:dark">
+<i>
+These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.
+</i>
+
 <br>
 <ul>
     <li><a href="https://www.google.com">Link 1</a></li>
