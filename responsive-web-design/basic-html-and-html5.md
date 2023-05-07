@@ -25,3 +25,9 @@
 ## 🔧 Instructions
 - Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
 Then complete all the challenges provided in the excerises section below.
+
+## 🚀 Excersises
+- Please complete the following excersises:
+    - Complete all challenges in the [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) section on freecodecamp.
+
+
