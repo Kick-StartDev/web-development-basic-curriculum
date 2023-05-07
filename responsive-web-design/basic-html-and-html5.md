@@ -28,6 +28,8 @@ Then complete all the challenges provided in the excerises section below.
 
 ## 🚀 Excersises
 - Please complete the following excersises:
-    - Complete all challenges in the [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) section on freecodecamp.
+    - [ ] Complete all challenges in the [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) section on freecodecamp.
 
-
+## 📫 Submittion
+- After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
+    - [Submittion Form](https://airtable.com/shrTKszJIyALWIPnb).
