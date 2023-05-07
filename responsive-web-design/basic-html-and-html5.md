@@ -50,3 +50,7 @@ Then complete all the challenges provided in the excerises section below.
         <li><a href="https://www.youtube.com/watch?v=8gNrZ4lAnAw">HTML Tutorial for Beginners: HTML Crash Course [2021]</a></li>
     </ul>
 </details>
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Kick-StartDev/web-development-basic-curriculum/issues/new)_
