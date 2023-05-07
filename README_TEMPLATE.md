@@ -20,7 +20,7 @@
 - Please watch the following videos:
     - Video 1:
 
-    [![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)][def]
+    [![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## 🔧 Instructions
 - Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
