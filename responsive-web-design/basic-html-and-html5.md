@@ -11,3 +11,13 @@
 - [ ] Basic understanding of HTML tags and attributes.
 - [ ] Basic understanding of HTML elements and their purpose.
 - [ ] Understand hw to work with [freecodecamp](freecodecamp.org) and how to submit your work.
+
+## 📹 Video
+- Please watch the following videos:
+    - Basic HTML and HTML5:
+
+    [![Video](https://img.youtube.com/vi/ftX8A85chOw/0.jpg)](https://www.youtube.com/watch?v=ftX8A85chOw)
+
+    - How to use freecodecamp:
+
+    [![Video](https://img.youtube.com/vi/9DCpQG1KVGk/0.jpg)](https://www.youtube.com/watch?v=9DCpQG1KVGk)
