@@ -33,3 +33,20 @@ Then complete all the challenges provided in the excerises section below.
 ## 📫 Submittion
 - After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
     - [Submittion Form](https://airtable.com/shrTKszJIyALWIPnb).
+
+<details>
+    <summary>
+        <h2>📌 Additional Materials</h2>
+    </summary>
+    <hr style="height:1px;border-width:0;color:gray;background-color:dark">
+    <i>
+        These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.
+    </i>
+
+<br>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU">HTML Crash Course For Absolute Beginners</a></li>
+        <li><a href="https://www.youtube.com/watch?v=UB1O30fR-EE">HTML Full Course - Build a Website Tutorial</a></li>
+        <li><a href="https://www.youtube.com/watch?v=8gNrZ4lAnAw">HTML Tutorial for Beginners: HTML Crash Course [2021]</a></li>
+    </ul>
+</details>
