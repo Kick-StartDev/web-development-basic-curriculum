@@ -6,6 +6,9 @@
 ## 📝 Description
 > CSS is a stylesheet language that allows you to define the presentation of elements in a markup language like HTML. CSS separates structure from presentation, allowing you to style your HTML elements.
 
+## 📋 Prerequisites
+- [ ] Understand the [Basics of HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/basic-html-and-html5.md).
+
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS.
 - [ ] Basic understanding of CSS selectors.
