@@ -1,13 +1,13 @@
 <div align="center">
     <img src="../images/css.jpg" alt="Logo" height="170" align="center">
-    <h1 align="center">Basic CSS</h1>
+    <h1 align="center">Introduction to CSS and Basic CSS</h1>
 </div>
 
 ## 📝 Description
 > CSS is a stylesheet language that allows you to define the presentation of elements in a markup language like HTML. CSS separates structure from presentation, allowing you to style your HTML elements.
 
 ## 📋 Prerequisites
-- [ ] Understand the [Basics of HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/basic-html-and-html5.md).
+- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS.
@@ -23,11 +23,11 @@
 
 ## 🔧 Instructions
 - Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
-Then complete all the challenges provided in the excerises section below.
+Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises
 - Please complete the following excersises:
-    - [ ] Complete all challenges in the [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) section on freecodecamp.
+    - [ ] [Learn basic css by building a cafe menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
 ## 📫 Submittion
 - After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
