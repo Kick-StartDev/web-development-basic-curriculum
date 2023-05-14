@@ -45,7 +45,7 @@ Then complete all the challenges provided in the excerises section below and sub
 <br>
     <ul>
         <li><a href="https://www.w3schools.com/css/" target="_blank">W3Schools CSS Tutorial</a></li>
-        <li><a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc" target="_blank">CSS Crash Course For Absolute Beginners</a></li>
+        <li><a href="https://www.youtube.com/watch?v=AQnR5TtXvZk" target="_blank">CSS Crash Course For Absolute Beginners</a></li>
         <li><a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc" target="_blank">CSS Tutorial - Zero to Hero (Complete Course)</a></li>
         <li><a href="https://www.youtube.com/watch?v=9DCpQG1KVGk" target="_blank">How to use freecodecamp</a></li>
     </ul>

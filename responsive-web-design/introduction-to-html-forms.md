@@ -49,7 +49,7 @@ Then complete all the challenges provided in the excerises section below and sub
 <br>
     <ul>
         <li><a href="https://www.w3schools.com/html/html_forms.asp" target="_blank">HTML Forms</a></li>
-        <li><a href="https://www.youtube.com/watch?v=2O8pkybH6po" target="_blank">HTML Forms</a></li>
+        <li><a href="https://www.youtube.com/watch?v=frAGrGN00OA" target="_blank">HTML Forms</a></li>
         <li><a href="https://www.youtube.com/watch?v=9DCpQG1KVGk" target="_blank">How to use freecodecamp</a></li>
     </ul>
 </details>

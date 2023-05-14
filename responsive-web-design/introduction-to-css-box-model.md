@@ -24,9 +24,10 @@
 ## 📹 Video
 
 - Please watch the following videos:
-    - <a href="https://www.youtube.com/watch?v=HNgdhp1_kEE" target="_blank">CSS Box Model</a>
+    - <a href="https://www.youtube.com/watch?v=YIxOwIuWp3c"
+    target="_blank">CSS Box Model</a>
 
-    [![Video](https://img.youtube.com/vi/HNgdhp1_kEE/0.jpg)](https://www.youtube.com/watch?v=HNgdhp1_kEE)
+    [![Video](https://img.youtube.com/vi/YIxOwIuWp3c/0.jpg)](https://www.youtube.com/watch?v=YIxOwIuWp3c)
 
 ## 🔧 Instructions
 - Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
@@ -52,7 +53,8 @@ Then complete all the challenges provided in the excerises section below and sub
 <br>
     <ul>
         <li><a href="https://www.w3schools.com/css/css_boxmodel.asp" target="_blank">CSS Box Model</a></li>
-        <li><a href="https://www.youtube.com/watch?v=HNgdhp1_kEE" target="_blank">CSS Box Model</a></li>
+        <li><a href="https://www.youtube.com/watch?v=rIO5326FgPE"
+        target="_blank">CSS Box Model</a></li>
         <li><a href="https://www.youtube.com/watch?v=9DCpQG1KVGk" target="_blank">How to use freecodecamp</a></li>
     </ul>
 </details>
