@@ -1,6 +1,6 @@
 <div align="center">
     <img src="../images/html5.jpg" alt="Logo" height="170" align="center">
-    <h1 align="center">Basic HTML and HTML5</h1>
+    <h1 align="center">Introduction to HTML and HTML5</h1>
 </div>
 
 ## 📝 Description
@@ -24,11 +24,11 @@
 
 ## 🔧 Instructions
 - Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
-Then complete all the challenges provided in the excerises section below.
+Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises
 - Please complete the following excersises:
-    - [ ] Complete all challenges in the [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) section on freecodecamp.
+    - [ ] [Learn HTML by building a cat photo app](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ## 📫 Submittion
 - After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
