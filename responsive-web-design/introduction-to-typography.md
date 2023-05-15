@@ -6,6 +6,14 @@
 ## 📝 Description
 > Typography is the art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning).
 
+## 📋 Prerequisites
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
+- [ ] [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
+- [ ] [Introduction to HTML Forms](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md).
+- [ ] [Introduction to CSS Box Model](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md).
+- [ ] [Introduction to CSS Flexbox](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-flexbox.md).
+
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of typography.
 - [ ] Basic understanding of typography properties.
