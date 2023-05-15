@@ -7,11 +7,11 @@
 > CSS Flexbox is a layout mode that arranges elements in a predictable way for different screen sizes and devices. Flexbox is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces.
 
 ## 📋 Prerequisites
-- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
-- [ ] Understand the [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
-- [ ] Understand the [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
-- [ ] Understand the [Introduction to HTML Forms](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md).
-- [ ] Understand the [Introduction to CSS Box Model](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md).
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
+- [ ] [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
+- [ ] [Introduction to HTML Forms](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md).
+- [ ] [Introduction to CSS Box Model](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS flexbox.
@@ -26,7 +26,7 @@
     [![Video](https://img.youtube.com/vi/JJSoEo8JSnc/0.jpg)](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

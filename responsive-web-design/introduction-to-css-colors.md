@@ -7,8 +7,8 @@
 > CSS colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
 
 ## 📋 Prerequisites
-- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
-- [ ] Understand the [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS colors.
@@ -22,7 +22,7 @@
     [![Video](https://img.youtube.com/vi/srg4sIbzE1k/0.jpg)](https://www.youtube.com/watch?v=srg4sIbzE1k)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

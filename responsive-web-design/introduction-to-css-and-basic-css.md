@@ -7,7 +7,7 @@
 > CSS is a stylesheet language that allows you to define the presentation of elements in a markup language like HTML. CSS separates structure from presentation, allowing you to style your HTML elements.
 
 ## 📋 Prerequisites
-- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS.
@@ -22,7 +22,7 @@
     [![Video](https://img.youtube.com/vi/OEV8gMkCHXQ/0.jpg)](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

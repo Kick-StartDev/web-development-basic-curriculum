@@ -7,9 +7,9 @@
 > HTML forms are used to collect user input. The user input is most often sent to a server for processing.
 
 ## 📋 Prerequisites
-- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
-- [ ] Understand the [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
-- [ ] Understand the [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
+- [ ] [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of HTML forms.
@@ -26,7 +26,7 @@
     [![Video](https://img.youtube.com/vi/2O8pkybH6po/0.jpg)](https://www.youtube.com/watch?v=2O8pkybH6po)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

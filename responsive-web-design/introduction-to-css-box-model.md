@@ -11,10 +11,10 @@
 > - Margin - A transparent area surrounding the border (i.e., the amount of space between the border and any neighboring elements)
 
 ## 📋 Prerequisites
-- [ ] Understand the [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
-- [ ] Understand the [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
-- [ ] Understand the [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
-- [ ] Understand the [Introduction to HTML Forms](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md).
+- [ ] [Introduction to HTML and HTML5](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md).
+- [ ] [Introduction to CSS and Basic CSS](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md).
+- [ ] [Introduction to CSS Colors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md).
+- [ ] [Introduction to HTML Forms](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS box model.
@@ -30,9 +30,8 @@
     [![Video](https://img.youtube.com/vi/YIxOwIuWp3c/0.jpg)](https://www.youtube.com/watch?v=YIxOwIuWp3c)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
-
 ## 🚀 Excersises
 - Please complete the following excersises:
     - [ ] [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1)

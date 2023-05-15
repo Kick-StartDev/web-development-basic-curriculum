@@ -27,8 +27,8 @@
     [![Video](https://img.youtube.com/vi/jggV5PucL1A/0.jpg)](https://www.youtube.com/watch?v=jggV5PucL1A)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform.Then complete all the challenges provided in the excerises section below and submit your work.
-
+- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
+Then complete all the challenges provided in the excerises section below and submit your work.
 ## 🚀 Excersises
 - Please complete the following excersises:
     - [Learn Typography by Building a Nurition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1)
