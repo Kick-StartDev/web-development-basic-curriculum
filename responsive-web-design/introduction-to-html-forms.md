@@ -31,7 +31,7 @@ Then complete all the challenges provided in the excerises section below and sub
 
 ## 🚀 Excersises
 - Please complete the following excersises:
-    - [ ] [Learn HTML Form by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-form-by-building-a-registration-form/step-1)
+    - [ ] [Learn HTML Form by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)
 
 ## 📫 Submittion
 - After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
