@@ -15,7 +15,7 @@
 - [ ] [Introduction to CSS Flexbox](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-flexbox.md).
 - [ ] [Introduction to Typography](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-typography.md).
 - [ ] [Introduction to Accessibility](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-accessibility.md).
-- [ ] [Introduction to CSS Selectors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/intrduction-to-css-selectors.md).
+- [ ] [Introduction to CSS Selectors](https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-selectors.md).
 
 ## 🎯 Learning Objectives
 - [ ] Understand the basic structure of CSS.
