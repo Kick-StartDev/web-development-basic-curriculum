@@ -34,7 +34,7 @@ Then complete all the challenges provided in the excerises section below.
 
 ## 📫 Submittion
 - After completing the excersises, please fill in the following form and submit your work so that we can know your progress:
-    - [Submittion Form](google.com).
+    - [Submittion Form](https://airtable.com/shrTKszJIyALWIPnb).
 
 <details>
     <summary>
@@ -47,9 +47,9 @@ Then complete all the challenges provided in the excerises section below.
 
 <br>
     <ul>
-        <li><a href="https://www.google.com/">Link 1</a></li>
-        <li><a href="https://www.google.com/">Link 2</a></li>
-        <li><a href="https://www.google.com/">Link 3</a></li>
+        <li><a href="https://www.google.com/" target="_blank">Link 1</a></li>
+        <li><a href="https://www.google.com/" target="_blank">Link 2</a></li>
+        <li><a href="https://www.google.com/" target="_blank">Link 3</a></li>
     </ul>
 </details>
 
