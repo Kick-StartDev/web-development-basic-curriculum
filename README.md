@@ -24,7 +24,7 @@ Check the curriculum overview below to see the topics covered in this curriculum
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md" target="_blank">Introduction to CSS and Basic CSS</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md" target="_blank">Introduction to CSS Colors</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md" target="_blank">Introduction to HTML Forms</a></li>
-        <li><a href="(https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md"
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md"
         target="_blank">Introduction to CSS Box Model</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-flexbox.md" target="_blank">Introduction to CSS Flexbox</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-typography.md"
