@@ -31,7 +31,7 @@
     [![Video](https://img.youtube.com/vi/oNSX21dh6kw/0.jpg)](https://www.youtube.com/watch?v=oNSX21dh6kw")
 
 ## 🔧 Instructions
-- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
+- If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

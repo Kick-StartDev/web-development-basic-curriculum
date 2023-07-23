@@ -28,7 +28,7 @@
     [![Video](https://img.youtube.com/vi/68h6bq1aYZo/0.jpg)](https://www.youtube.com/watch?v=68h6bq1aYZo)
 
 ## 🔧 Instructions
-- If you don't have an account on [freecodecamp](freecodecamp.org), please create one and familiarize yourself with the platform.
+- If you don't have an account on [freecodecamp](https://www.freecodecamp.org), please create one and familiarize yourself with the platform.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises

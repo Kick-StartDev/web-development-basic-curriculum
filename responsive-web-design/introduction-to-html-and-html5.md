@@ -23,7 +23,7 @@
     [![Video](https://img.youtube.com/vi/9DCpQG1KVGk/0.jpg)](https://www.youtube.com/watch?v=9DCpQG1KVGk)
 
 ## 🔧 Instructions
-- Create an account on [freecodecamp](freecodecamp.org) and familiarize yourself with the platform using the video above.
+- Create an account on [freecodecamp](https://www.freecodecamp.org) and familiarize yourself with the platform using the video above.
 Then complete all the challenges provided in the excerises section below and submit your work.
 
 ## 🚀 Excersises
