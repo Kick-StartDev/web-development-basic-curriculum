@@ -20,23 +20,23 @@ Check the curriculum overview below to see the topics covered in this curriculum
 
 <br>
     <ul>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md" target="_blank">Introduction to HTML and HTML5</a></li>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md" target="_blank">Introduction to CSS and Basic CSS</a></li>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md" target="_blank">Introduction to CSS Colors</a></li>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md" target="_blank">Introduction to HTML Forms</a></li>
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-and-html5.md" target="_blank">1: Introduction to HTML and HTML5</a></li>
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-and-basic-css.md" target="_blank">2: Introduction to CSS and Basic CSS</a></li>
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-colors.md" target="_blank">3: Introduction to CSS Colors</a></li>
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-html-forms.md" target="_blank">4: Introduction to HTML Forms</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-box-model.md"
-        target="_blank">Introduction to CSS Box Model</a></li>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-flexbox.md" target="_blank">Introduction to CSS Flexbox</a></li>
+        target="_blank">5: Introduction to CSS Box Model</a></li>
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-flexbox.md" target="_blank">6: Introduction to CSS Flexbox</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-typography.md"
-        target="_blank">Introduction to Typography</a></li>
+        target="_blank">7: Introduction to Typography</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-accessibility.md"
-        target="_blank">Introduction to Accessibility</a></li>
+        target="_blank">8: Introduction to Accessibility</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-selectors.md"
-        target="_blank">Introduction to CSS Selectors</a></li>
+        target="_blank">9: Introduction to CSS Selectors</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/intermediate-css-concepts.md"
-        target="_blank">Intermediate CSS Concepts</a></li>
+        target="_blank">10: Intermediate CSS Concepts</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/responsice-web-design-concepts.md"
-        target="_blank">Responsive Web Design Concepts</a></li>
+        target="_blank">11: Responsive Web Design Concepts</a></li>
     </ul>
 </details>
 
