@@ -33,7 +33,7 @@ Check the curriculum overview below to see the topics covered in this curriculum
         target="_blank">Introduction to Accessibility</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-selectors.md"
         target="_blank">Introduction to CSS Selectors</a></li>
-        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/introduction-to-css-selectors.md"
+        <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/intermediate-css-concepts.md"
         target="_blank">Intermediate CSS Concepts</a></li>
         <li><a href="https://github.com/Kick-StartDev/web-development-basic-curriculum/blob/responsive-web-design/responsive-web-design/responsice-web-design-concepts.md"
         target="_blank">Responsive Web Design Concepts</a></li>
